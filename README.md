@@ -2,8 +2,7 @@
 
 **What data does this bot store?**
 
-> Guild IDs
-> User IDs
+ > Guild IDs & User IDs
 
 # Why do we need the data, and why do we use this data?
 a) Guilds IDs' are stored for configuration settings (such as server modules, configuration settings and such.)
